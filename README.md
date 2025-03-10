@@ -19,6 +19,6 @@ This project simulates a Linux file system with basic commands like `mkdir`, `to
 1. Clone the repository:
 
 ```sh
-https://github.com/bikashbct/filesystemsimulation.git
+git clone https://github.com/bikashbct/filesystemsimulation.git
 pip install -r requirements.txt
 python file_sytem.py
